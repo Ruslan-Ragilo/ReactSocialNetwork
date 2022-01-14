@@ -1,0 +1,33 @@
+li {
+  list-style: none;
+}
+
+
+.appWrapper {
+ max-width: 100%;
+ margin: 0 auto;
+ background-color:#f0f2f5;
+ min-height: 100vh;
+ display: grid;
+ padding: 10px;
+
+ grid-template-areas: 
+ "h h"
+ "n c";
+
+ grid-template-rows: 60px 1fr;
+ grid-template-columns: 2fr 10fr;
+
+ grid-gap: 10px;
+}
+
+
+.appWrapperContent {
+ grid-area: c;
+}
+
+
+
+
+
+

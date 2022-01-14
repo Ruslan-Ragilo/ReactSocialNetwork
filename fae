@@ -1,0 +1,17 @@
+* [33mcommit fcd0009327fbf0023cd5a850773aa2e8df2b3a5f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m Author: Ruslan <ruslan@webservise.ru>
+[31m|[m Date:   Fri Oct 1 15:34:28 2021 +0300
+[31m|[m 
+[31m|[m     new styles for messages
+[31m|[m   
+[31m|[m * [33mcommit 7662340df5a3b63d1e5825370e069efd4b0d14f1[m[33m ([m[1;32mmain[m[33m)[m
+[31m|[m[31m/[m  Author: Ruslan <ruslan@webservise.ru>
+[31m|[m   Date:   Fri Oct 1 15:29:20 2021 +0300
+[31m|[m   
+[31m|[m       new styles for messages
+[31m|[m 
+* [33mcommit cc8ccbb5f05273157839f04d39d7598eee9a6a25[m
+  Author: Ruslan <ruslan@webservise.ru>
+  Date:   Sun Sep 26 15:00:13 2021 +0300
+  
+      Initialize project using Create React App

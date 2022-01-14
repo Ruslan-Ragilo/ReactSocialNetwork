@@ -1,0 +1,18 @@
+.wrapperDialogs {
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: 2fr 10fr;
+    padding: 20px;
+}
+
+.dialog {
+    padding: 5px;
+}
+
+.dialog.active {
+    color: gold;
+}
+
+.message {
+    padding: 5px;
+}
